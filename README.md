@@ -1,17 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Georgi Stefanov
-=======================================================================================================================================
+<h2>Hello my name is: Georgi Stefanov<h2>
+<p>I am begginner Java developer who love coding and learning new things<p>
 
-Java Developer
---------------
+<details>
+   <summary>Click to see My project</summary>
+    <p>currently i am working or learning new things to make my ideas real. Soon here will be my project!</p>
+</details>
 
-I've been learning for a approximately 6-7 months. I am Java beginner who enjoy coding. Love learning new things about programming.
+<p>Begginner Java Developer<p>
 
+<a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn profile</a>
+<footer>
 * 🌍  I'm based in Sofia
-* 🧠  I'm learning How to build projects with Java Spring using JS,HTML,CSS.
-* 🤝  I'm open to collaborating on Projects
+* 🧠  Working hard.
+* 🤝  I'm open to collaborating on Projects.
+</footer>
 
-  <a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn profile</a>
-
+  
 ### Skills
 
 
