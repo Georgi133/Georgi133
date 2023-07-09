@@ -15,7 +15,7 @@
   <li>
      <details>
         <summary style="color:green">GitHub Profile</summary>
-        <p>You are already in</p>
+        <p>You are already watching it</p>
        </details>
   </li>
   
