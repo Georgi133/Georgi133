@@ -8,6 +8,19 @@
     <p>Soon here will be my project!</p>
 </details>
 
+<nav>
+  <ul>
+  <li><a href="https://github.com/Georgi133">This is my Github Profile</a></li>
+   
+  <li>
+      <details>
+        <summary style="color:green">About Me</summary>
+        <p>Working hard within Software field</p>
+       </details>
+  </li>
+               
+</nav>
+
 <hr>
 <a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn profile</a>
 <footer>
