@@ -9,7 +9,7 @@
 </details>
 
 <nav>
-  <ul type="none">   
+  <ul type="circle">   
       <li><a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn Profile</a></li>
       <li>
          <details>
