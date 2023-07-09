@@ -1,9 +1,9 @@
-<header style="color💚">Hello There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is: Georgi Stefanov</header>
+<header style="color:green">Hello There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is: Georgi Stefanov</header>
 <br>
 
-<p style="background-color💙">I am begginner Java developer who love coding and learning new things<p>
+<p style="background-color:blue">I am begginner Java developer who love coding and learning new things<p>
 
-<details style="color🎱">
+<details style="color:green">
    <summary>Click to see My project</summary>
     <p>Soon here will be my project!</p>
 </details>
