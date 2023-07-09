@@ -1,9 +1,10 @@
-<h2>Hello my name is: Georgi Stefanov<h2>
+<h2>Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is: Georgi Stefanov<h2>
+   
 <p>I am begginner Java developer who love coding and learning new things<p>
 
 <details>
    <summary>Click to see My project</summary>
-    <p>currently i am working or learning new things to make my ideas real. Soon here will be my project!</p>
+    <p>Soon here will be my project!</p>
 </details>
 
 <p>Begginner Java Developer<p>
