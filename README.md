@@ -11,7 +11,7 @@
 <nav>
   <ul>
    
-  <li><a href="https://github.com/Georgi133](http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn Profile</a></li>
+  <li><a href="[https://github.com/Georgi133](http://linkedin.com/in/georgi-stefanov-194918240](http://linkedin.com/in/georgi-stefanov-194918240)">This is my LinkedIn Profile</a></li>
   <li>
      <details>
         <summary style="color:green">GitHub Profile</summary>
