@@ -1,15 +1,15 @@
 <header style="color:green">Hello There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is: Georgi Stefanov</header>
 <br>
-
+<hr>
 <p style="background-color:blue">I am begginner Java developer who love coding and learning new things<p>
-
+<hr>
 <details>
    <summary style="color:green">Click to see My project</summary>
     <p>Soon here will be my project!</p>
 </details>
-
+<hr>
 <p>Begginner Java Developer<p>
-
+<hr>
 <a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn profile</a>
 <footer>
 * 🌍  I'm based in Sofia
