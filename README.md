@@ -22,7 +22,6 @@
 </nav>
 
 <hr>
-<a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn profile</a>
 <footer>
 * 🌍  I'm based in Sofia
 * 🧠  Working hard.
