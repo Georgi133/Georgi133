@@ -3,8 +3,8 @@
 
 <p style="background-color:blue">I am begginner Java developer who love coding and learning new things<p>
 
-<details style="color:green">
-   <summary>Click to see My project</summary>
+<details>
+   <summary style="color:green">Click to see My project</summary>
     <p>Soon here will be my project!</p>
 </details>
 
