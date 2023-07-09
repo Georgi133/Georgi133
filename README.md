@@ -7,7 +7,7 @@
    <summary style="color:green">Click to see My project</summary>
     <p>Soon here will be my project!</p>
 </details>
-<p>Begginner Java Developer<p>
+
 <hr>
 <a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn profile</a>
 <footer>
