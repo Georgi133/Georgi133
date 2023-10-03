@@ -28,7 +28,6 @@
 
 <hr>
 <footer>
-* 🌍  I'm based in Sofia
 * 🧠  Working hard.
 * 🤝  I'm open to collaborating on Projects.
 </footer>
