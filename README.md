@@ -5,7 +5,7 @@
 <hr>
 <details>
    <summary style="color:green">Click to see My project</summary>
-    <a href="https://github.com/Georgi133/Best-Finder-Website">My website project in GitHub!</a>
+    <a href="https://github.com/Georgi133/Best-Finder-Website">My website in GitHub!</a>
 </details>
 
 <nav>
