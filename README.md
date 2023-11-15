@@ -11,12 +11,6 @@
   <ul type="circle">   
       <li><a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn Profile</a></li>
       <li>
-         <details>
-           <summary style="color:green">GitHub Profile</summary>
-           <p>You are already watching it</p>
-         </details>
-      </li>
-      <li>
        <details>
           <summary style="color:green">About Me</summary>
           <p>Working hard within Software field</p>
