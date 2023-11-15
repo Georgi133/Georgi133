@@ -1,5 +1,4 @@
 <header><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Georgi+Stefanov." alt="Typing SVG" /></header>
-<br>
 <hr>
 <p style="background-color:blue">I am begginner Java developer who love coding and learning new things<p>
 <hr>
