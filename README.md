@@ -1,7 +1,7 @@
 <header><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Georgi+Stefanov." alt="Typing SVG" /></header>
 <hr>
 <p style="background-color:blue">I am begginner Java developer who love coding and learning new things<p>
-<hr>
+<hr> 
 <details>
    <summary style="color:green">Click to see My project</summary>
     <a href="https://github.com/Georgi133/Best-Finder-Website">My website in GitHub!</a>
