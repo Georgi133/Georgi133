@@ -4,7 +4,7 @@
 <hr> 
 <div>My project in GitHub: <a href="https://github.com/Georgi133/Best-Finder-Website">Click to see Project in GitHub</a></div>
    
-<div><a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn Profile</a></div>
+<div>How to reach me <a href="http://linkedin.com/in/georgi-stefanov-194918240">My LinkedIn Profile</a></div>
       
 <p>Working hard within Software field :fire:</p>
 <hr>
