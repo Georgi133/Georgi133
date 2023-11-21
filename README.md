@@ -1,24 +1,12 @@
 <header><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+My+name+is+Georgi+Stefanov." alt="Typing SVG" /></header>
 <hr>
-<p style="background-color:blue">I am begginner Java developer who love coding and learning new things<p>
+<p style="background-color:blue">I am begginner Java developer who love coding and learning  new things for proggraming world :computer: <p>
 <hr> 
-<details>
-   <summary style="color:green">Click to see My project</summary>
-    <a href="https://github.com/Georgi133/Best-Finder-Website">My website in GitHub!</a>
-</details>
-
-<nav>
-  <ul type="circle">   
-      <li><a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn Profile</a></li>
-      <li>
-       <details>
-          <summary style="color:green">About Me</summary>
-          <p>Working hard within Software field</p>
-        </details>
-      </li>
-    </ul>               
-</nav>
-
+<div>This is my project in GitBub: <a href="https://github.com/Georgi133/Best-Finder-Website">Click to see Project in GitHub</a></div>
+   
+<div><a href="http://linkedin.com/in/georgi-stefanov-194918240">This is my LinkedIn Profile</a></div>
+      
+<p>Working hard within Software field :fire:</p>
 <hr>
 <footer>
 * 🧠  Working hard.
