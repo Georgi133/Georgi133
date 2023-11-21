@@ -6,7 +6,7 @@
    
 <div>:mailbox_with_mail: How to reach me: <a href="http://linkedin.com/in/georgi-stefanov-194918240">My LinkedIn Profile</a></div>
       
-<p>Working hard within Software field :fire:</p>
+<p>:fire: Working hard within Software field </p>
 <hr>
 <footer>
 * 🧠  Working hard.
