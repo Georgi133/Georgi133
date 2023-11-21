@@ -3,9 +3,9 @@
 <p align="center" style="background-color:blue">:computer: I am begginner Java developer who love coding and learning  new things for proggraming world :computer: <p>
 <hr>
 
-<div align="center">🛠 My project in GitHub: <a href="https://github.com/Georgi133/Best-Finder-Website">Click to see Project in GitHub!</a></div>
-<div align="center">:mailbox_with_mail: How to reach me: <a href="http://linkedin.com/in/georgi-stefanov-194918240">My LinkedIn Profile!</a></div>
-<p align="center">:fire: Working hard within Software field. </p>   
+<div>🛠 My project in GitHub: <a href="https://github.com/Georgi133/Best-Finder-Website">Click to see Project in GitHub!</a></div>
+<div>:mailbox_with_mail: How to reach me: <a href="http://linkedin.com/in/georgi-stefanov-194918240">My LinkedIn Profile!</a></div>
+<p>:fire: Working hard within Software field. </p>   
 
 <hr>
 <footer>
