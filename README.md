@@ -5,7 +5,6 @@
 
                  <div>🛠 My project in GitHub: <a href="https://github.com/Georgi133/Best-Finder-Website">Click to see Project in GitHub!</a></div>
               <div>:mailbox_with_mail: How to reach me: <a href="http://linkedin.com/in/georgi-stefanov-194918240">My LinkedIn Profile!</a></div>
-<div></div>  
                                                <p>:fire: Working hard within Software field. </p>   
 <hr>
 <footer>
