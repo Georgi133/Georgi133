@@ -29,3 +29,5 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="36" height="36" alt="Spring" />
    
 </p>
+
+[![Georgi Stafanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
