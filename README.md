@@ -27,7 +27,7 @@
    <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" /></a>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="36" height="36" alt="CSS" />
    <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png" width="36" height="36" alt="JS" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="36" height="36" alt="Spring" />
+   <img src="https://miro.medium.com/v2/resize:fit:700/0*y6IcBe5J1AdALzXw.png" width="36" height="36" alt="ReactJS" />
    
 </p>
 
