@@ -3,8 +3,10 @@
 <p align="center" style="background-color:blue">:computer: I am Java software engineer who love coding and learning new things for programming world :computer: <p>
 <hr>
 
-<div>🛠 My first project: <a href="https://github.com/Georgi133/Best-Finder-Website">My first RESTFUL API app![Spring Boot, Spring Security, JWT, ReactJS, WebSockets, Swagger UI and many more]</a></div>
+<div>🛠 My first project: <a href="https://github.com/Georgi133/Best-Finder-Website">My first RESTFUL API App![Spring Boot, Spring Security, JWT, ReactJS, WebSockets, Swagger UI and many more]</a></div>
+<div>🛠 AI Assisted Development Simple Project: <a href="https://github.com/Georgi133/Task-Notification-App-AI-Project-">Practical AI Assisted Dev App!</a></div>
 <div>🛠 The project i am working on now: <a href="https://github.com/Georgi133/e-commerce">Practical microservises e-commerce app!</a></div>
+
 </br>
 <div>:mailbox_with_mail: How to reach me: <a href="http://linkedin.com/in/georgi-stefanov-194918240">My LinkedIn Profile!</a></div>
 </br>
