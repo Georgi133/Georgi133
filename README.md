@@ -3,7 +3,8 @@
 <p align="center" style="background-color:blue">:computer: I am Java software engineer who love coding and learning new things for programming world :computer: <p>
 <hr>
 
-<div>🛠 My project in GitHub: <a href="https://github.com/Georgi133/Best-Finder-Website">Click to see Project in GitHub!</a></div>
+<div>🛠 My first project: <a href="https://github.com/Georgi133/Best-Finder-Website">My first RESTFUL API app![Spring Boot, Spring Security, JWT, ReactJS, WebSockets, Swagger UI and many more]</a></div>
+<div>🛠 The project i am working on now: <a href="https://github.com/Georgi133/e-commerce">Practical microservises e-commerce app!</a></div>
 </br>
 <div>:mailbox_with_mail: How to reach me: <a href="http://linkedin.com/in/georgi-stefanov-194918240">My LinkedIn Profile!</a></div>
 </br>
@@ -25,7 +26,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
    <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" /></a>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="36" height="36" alt="CSS" />
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="36" height="36" alt="JS" />
+   <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png" width="36" height="36" alt="JS" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="36" height="36" alt="Spring" />
    
 </p>
